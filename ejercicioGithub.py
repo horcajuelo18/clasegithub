@@ -11,6 +11,7 @@ Jeshua= Persona( "Jeshua", 17 )
 Pau = Persona('Pau', 14) 
 Ibai = Persona('Ibai', 14)
 Anderson = Persona('Anderson', 18)
+Juan_carlos = Persona('Juan Carlos', 15)
 
 
 # saludar
@@ -18,3 +19,4 @@ Jeshua.saludar()
 Pau.saludar()
 Ibai.saludar()
 Anderson.saludar()
+Juan_carlos.saludar()
