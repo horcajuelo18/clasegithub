@@ -7,8 +7,10 @@ class Persona:
         return f"Hola, mi nombre es {self.nombre} y tengo {self.edad} años."
     
 # Crear una instancia de la clase Persona 
-Jeshua= Persona( "Jeshua", 17 ) 
+Jeshua= Persona( "Jeshua", 17 )
+Pau = Persona('Pau', 14) 
 
 
 # saludar
 Jeshua.saludar()
+Pau.saludar()
